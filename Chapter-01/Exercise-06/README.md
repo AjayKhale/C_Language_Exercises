@@ -1,7 +1,5 @@
-# Exercise-9
-Write a program to copy its input to its output, replacing each string of one or
-more blanks by a single blank.
-
+# Exercise-06
+Verify that the expression getchar() != EOF is 0 or 1.
 ## Compiling Code
 
 To compile code, run the following command
@@ -17,5 +15,10 @@ To run tests, run the following command
 ```bash
   ./main.exe
 ```
+
+## Output
 Use 'ctrl+D' to generate EOF through stdin on unix\
 Use 'ctrl+Z' to generate EOF through stadin on windows
+```bash
+c at EOF = 0
+```

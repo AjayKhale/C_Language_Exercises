@@ -1,5 +1,7 @@
-# Exercise-7
-Write a program to print the value of EOF.
+# Exercise-01
+Run the "hello, world" program on your system. Experiment with leaving
+out parts of the program, to see what error messages you get.
+
 ## Compiling Code
 
 To compile code, run the following command
@@ -14,9 +16,4 @@ To run tests, run the following command
 
 ```bash
   ./main.exe >log.out 2>log_error.out
-```
-
-## Output
-```bash
-EOF = -1
 ```

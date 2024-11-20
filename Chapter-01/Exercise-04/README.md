@@ -1,4 +1,4 @@
-# Exercise-4
+# Exercise-04
 Write a program to print the corresponding Celsius to Fahrenheit table.
 
 ## Compiling Code

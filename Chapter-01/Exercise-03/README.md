@@ -1,4 +1,4 @@
-# Exercise-3
+# Exercise-03
 Modify the temperature conversion program to print a heading above the table.
 
 | Format Specifier | Description |

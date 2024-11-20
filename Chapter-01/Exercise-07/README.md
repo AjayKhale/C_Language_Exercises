@@ -1,5 +1,5 @@
-# Exercise-8
-Write a program to count blanks, tabs, and newlines.
+# Exercise-07
+Write a program to print the value of EOF.
 ## Compiling Code
 
 To compile code, run the following command
@@ -13,7 +13,10 @@ To compile code, run the following command
 To run tests, run the following command
 
 ```bash
-  ./main.exe
+  ./main.exe >log.out 2>log_error.out
 ```
-Use 'ctrl+D' to generate EOF through stdin on unix\
-Use 'ctrl+Z' to generate EOF through stadin on windows
+
+## Output
+```bash
+EOF = -1
+```

@@ -1,5 +1,5 @@
-# Exercise-6
-Verify that the expression getchar() != EOF is 0 or 1.
+# Exercise-08
+Write a program to count blanks, tabs, and newlines.
 ## Compiling Code
 
 To compile code, run the following command
@@ -15,10 +15,5 @@ To run tests, run the following command
 ```bash
   ./main.exe
 ```
-
-## Output
 Use 'ctrl+D' to generate EOF through stdin on unix\
 Use 'ctrl+Z' to generate EOF through stadin on windows
-```bash
-c at EOF = 0
-```
